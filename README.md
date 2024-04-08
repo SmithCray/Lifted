@@ -1,8 +1,9 @@
 # Lifted
 
-A small workout guide.
+A small workout and reference guide.
 
-Featuring simple at home excersises I enjoy. Built with HTML5 UP "Story" Template
+Featuring simple at home excersises I enjoy.<br>
+Built with HTML5 UP "Story" Template.
 
 <ins>**Current Workout Regimen:**</ins>
 
