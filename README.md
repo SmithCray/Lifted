@@ -2,7 +2,7 @@
 
 A small workout guide.
 
-Featuring excersises I enjoy. Built with HTML5 UP "Story" Template
+Featuring simple at home excersises I enjoy. Built with HTML5 UP "Story" Template
 
 <ins>**Current Workout Regimen:**</ins>
 
